@@ -1,0 +1,1 @@
+<p style="text-align:left;color:red;">{CONTENT}<p>
