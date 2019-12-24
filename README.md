@@ -1,7 +1,15 @@
 # CanaryPHPConservation Conservations Manager
 Simple file manging for php
 # Classes Feature
-- Copy and move
+- Create conservation
+- Create message
+- Update conservation
+- Update message
+- Delete conservation
+- Delete message
+- Get conservations
+- Get messages
+- Conservation Authenfication
 ## How to Install
 #### Availlable only with Composer :
 - Command :
